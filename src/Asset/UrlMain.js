@@ -1,0 +1,1 @@
+export const BASE_URL = "https://foure4b-url-shortener.onrender.com";
